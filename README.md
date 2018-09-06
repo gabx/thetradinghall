@@ -1,6 +1,7 @@
-thetradinghall
-==================
+# TheTradingHall
 
-This project is currently under construction. You will find in the [Wiki pages](https://github.com/gabx/thetradinghall/wiki) a very detailed How-to about the server configuration.
+This project is currently under heavy construction. You will find in the [Wiki pages](https://github.com/gabx/thetradinghall/wiki) a very detailed How-to about the server configurations. Some pages are still under writting and may contain few issues
 
-The main site can be found [here](https://www.thetradinghall.com) and its blog [here](blog.thetradinghall.com). The blog will be the public and active arm of the hall.
+All configurations and How-To have been tested and successfuly used. They result from lots of reading and are not only copy/paste recipies.
+
+[Nginx](Nginx)
